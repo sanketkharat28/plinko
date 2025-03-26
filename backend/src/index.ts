@@ -1,4 +1,3 @@
-
 import express from "express";
 import { outcomes } from "./outcomes";
 import cors from "cors";
